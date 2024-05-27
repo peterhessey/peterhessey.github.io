@@ -906,7 +906,7 @@ pre {
   margin: 0;
 }
 .highlight pre.lineno {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0,0,0,0.3);
   border-radius: 0;
   border-right: 2px solid #444;
 }
@@ -950,29 +950,26 @@ pre {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  border: 1px solid #eee;
+  border: 1px solid #dee2e6;
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
+  border-left-color: #dee2e6;
 }
 
 .box-note {
-  background-color: #eee;
-  border-left-color: #2980b9;
+  background-color: #25629f;
 }
 
 .box-warning {
-  background-color: #fdf5d4;
-  border-left-color: #f1c40f;
+  background-color: #bd4b13;
 }
 
 .box-error {
-  background-color: #f4dddb;
-  border-left-color: #c0392b;
+  background-color: #b21c0f;
 }
 
 .box-success {
-  background-color: #98FB98;
-  border-left-color: #3CB371;
+  background-color: #005600;
 }
 
 /* --- Misc blog post styles --- */
