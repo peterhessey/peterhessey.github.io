@@ -839,7 +839,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #2d3137;
 }
 table tr th,
 table tr td {
@@ -906,7 +906,7 @@ pre {
   margin: 0;
 }
 .highlight pre.lineno {
-  color: rgba(0,0,0,0.3);
+  color: rgba(255,247, 247,0.7);
   border-radius: 0;
   border-right: 2px solid #444;
 }
