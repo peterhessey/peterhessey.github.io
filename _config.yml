@@ -22,6 +22,7 @@ author: Peter Hessey
 navbar-links:
 
   About Me: "aboutme"
+  CV: http://peterhessey.github.io/assets/pdf/CV.pdf
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
